@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_manager.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_book_manager.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binder_pool.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_binder_pool.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tcpclient.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_tcpclient.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_third.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messenger.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_messenger.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_provider.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\src\\main\\res\\layout\\activity_provider.xml"
+    }
+]

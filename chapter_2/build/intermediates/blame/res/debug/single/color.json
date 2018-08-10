@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "E:\\TeamWork\\IWCMS\\trunk\\020.SourceCode\\MIWCMS\\chapter_2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    }
+]

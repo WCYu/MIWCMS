@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Work\\MIWCMS\\installerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessibility_service_config.xml",
+        "source": "E:\\Work\\MIWCMS\\installerlibrary\\build\\intermediates\\bundles\\debug\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "E:\\Work\\MIWCMS\\installerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\file_paths.xml",
+        "source": "E:\\Work\\MIWCMS\\installerlibrary\\build\\intermediates\\bundles\\debug\\res\\xml\\file_paths.xml"
+    }
+]

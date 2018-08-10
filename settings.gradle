@@ -1,0 +1,2 @@
+include ':IWCServer', ':IWCServer', ':iwc2', ':installerlibrary'
+include ':openCVLibrary310'

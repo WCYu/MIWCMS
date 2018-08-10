@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:2:11-50
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:5:22-82
+uses-permission#android.permission.INTERNET
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:13:22-81
+application
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:15:5-43:19
+	android:supportsRtl
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:16:9-35
+service#top.wuhaojie.installerlibrary.InstallAccessibilityService
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:20:9-31:19
+	android:enabled
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:23:13-36
+	android:permission
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:24:13-79
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:21:13-56
+intent-filter#android.accessibilityservice.AccessibilityService
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:25:13-27:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:26:17-91
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:26:25-89
+meta-data#android.accessibilityservice
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:28:13-30:71
+	android:resource
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:29:17-60
+provider#android.support.v4.content.FileProvider
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:33:9-41:20
+	android:grantUriPermissions
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:37:13-47
+	android:authorities
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:35:13-77
+	android:exported
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:34:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:38:13-40:53
+	android:resource
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml:39:17-67
+uses-sdk
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		ADDED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\MIWCMS\installerlibrary\src\main\AndroidManifest.xml

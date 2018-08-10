@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IWCServer/IWCServer.iml" filepath="$PROJECT_DIR$/IWCServer/IWCServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MIWCMS.iml" filepath="$PROJECT_DIR$/MIWCMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/installerlibrary/installerlibrary.iml" filepath="$PROJECT_DIR$/installerlibrary/installerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iwc2/iwc2.iml" filepath="$PROJECT_DIR$/iwc2/iwc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" filepath="$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" />
+    </modules>
+  </component>
+</project>
