@@ -228,7 +228,6 @@ public class MainActivity extends Activity implements SurfaceHolder.Callback,
                 localSize = (Camera.Size) localList.get(j);
         }
     }
-
     public static TextView tv_flag;
     public static TextView tv_index;
     public static TextView tv_pic_count;
